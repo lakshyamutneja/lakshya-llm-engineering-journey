@@ -1,13 +1,1 @@
-# LLM Engineering Learning Journey
-
-This repository documents my hands-on learning while completing the LLM Engineering course.  
-It includes my notes, experiments, debugging steps, setup learnings, and extensions built on top of the course material.
-
-Topics covered:
-- Python environment setup with uv
-- Cursor setup
-- OpenAI API basics
-- LLM prompting
-- RAG experiments
-- Agents
-- Model fine-tuning concepts
+This repository documents my personal learning, notes, and experiments while studying LLM engineering concepts. Some exercises are inspired by the LLM Engineering course, but the explanations, notes, experiments, and extensions are my own.
